@@ -1,4 +1,4 @@
-# RANK-OF-A-MATRIX
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/30cdd2fb-a776-456e-ac7a-8fd3ff91aa7f" /># RANK-OF-A-MATRIX
 ## Aim:
 To write a python program to find the rank of a matrix
 ## Equipment’s required:
@@ -21,7 +21,7 @@ a=np.array([[1,2,3],[3,6,9]])
 rank=np.linalg.matrix_rank(a)
 print(rank)
 ## Output:
-<img width="1920" height="1200" alt="math ai" src="https://github.com/user-attachments/assets/a73d1655-364a-44cf-9ec1-68ede0d7fc05" />
+<img width="1920" height="1200" alt="Screenshot 2025-12-11 133042" src="https://github.com/user-attachments/assets/597c4329-1e9c-4718-82b2-bd4d1765af16" />
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
