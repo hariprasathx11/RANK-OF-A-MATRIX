@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/30cdd2fb-a776-456e-ac7a-8fd3ff91aa7f" /># RANK-OF-A-MATRIX
+
 ## Aim:
 To write a python program to find the rank of a matrix
 ## Equipment’s required:
@@ -13,11 +13,13 @@ create a nested list named A.
 Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 ### Step 4: 
 Display the rank of the matrix and end the program.
-## Program:#Program to find the rank of a matrix
+## Program:
+#Program to find the rank of a matrix
 #Developed by:S.Hariprasath
 #Register number:25017723
 import numpy as np
-a=np.array([[1,2,3],[3,6,9]])
+a=np.array([[1,2,3],
+[3,6,9]])
 rank=np.linalg.matrix_rank(a)
 print(rank)
 ## Output:
